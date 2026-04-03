@@ -42,7 +42,7 @@ I’m a developer and UI/UX enthusiast focused on creating minimalist, premium w
 
 ### 🌐 Connect with Me
 <p align="center">
-<a href="https://twitter.com/ss_suryavanshi"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+<a href="(https://x.com/shivansh713305)"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
 <a href="https://linkedin.com/in/ss-suryavanshi"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://401kcalculator.qzz.io"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </p>
